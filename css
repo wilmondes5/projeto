@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="Principal.css" />
+    <title>Document</title>
+</head>
+<body>
+    <div class="principal">
+        <a href="HTML.html"><button class="btn">HTML</button></a>
+        <a href="css.html"> <button class="btn">CSS</button></a>
+        <a href="javascri.html"><button class="btn">JAVASCRIPT</button></a>
+          </div>    
+          <a href="Site.html"><img src="https://media1.giphy.com/media/uPe7W9c3kvQMI69uPi/giphy.gif?cid=ecf05e47o8c5qwv8uqlhsh42s7aavyvbyhbncaurixs4gjww&rid=giphy.gif&ct=s" alt="" class="logo"></a>
+            </p></center>
+
+       <p class="textpri">De forma simplificada, enquanto o HTML seria o esqueleto da página, o CSS seria sua pele, com ele é possível<br>
+         alterar toda sua aparência e adicionar mais “Vida” à página.
+        Para começar a programar em css é necessário abrir a<br>
+         tag "style"onde deseja fazer a alteração de aparência. É importante ressaltar que existem duas formas de se utilizar<br>
+         o CSS, a primeira forma é de uso interno e a segunda de uso externo.
+        </p></center>
+        <center><p class="Principalti">Uso Interno</p></center>
+        <img src="C:\Users\wilmo\Desktop\interno certo.png" alt="Código Base html" width="30%" class="expli">
+        <p class="tituloum">Aqui é possivel observar que há uma necessidade da abertuda da tag Style,<br>
+             recomenda-se  que  use esse método em páginas pequenas, pois altera pequenos<br>
+              campos quando abertos em uma tag simples.</p>
+ 
+        <center><p class="Principalti">Uso Externo</p></center>
+        <img src="C:\Users\wilmo\Desktop\interno externo.png" alt="Código Base html" width="30%" class="expli">
+        <p class="titulodois">É mais utilizado quando se tenta manter um padrão em várias páginas ao<br>
+             mesmo tempo, como é o caso aqui, ele mantem todos os padões e evita<br>
+              um trabalho desnecessário evitando erros humanos.</p>
+
+</body>
+</html>
